@@ -1,0 +1,58 @@
+#Cali {
+  color:rgb(35, 44, 48);
+  font-size: 90px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  text-shadow: 3px 3px rgb(115, 192, 223);
+}
+#España {
+  color: rgb(20, 16, 20);
+  font-size: 80px;
+  text-align: center;
+  background-color: khaki;
+  text-shadow: 4px 4px blue;
+}
+#Venezuela {
+  color: rgb(19, 31, 25);
+  font-size: 80px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+#Japon {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: black;
+}
+
+#Corea {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  background-color: black;
+}
+
+#Honduras {
+  color:mediumblue;
+  font-size: 100px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color:cornsilk;
+}
+
+#Australia {
+  color: mediumblue;
+  font-size: 100px;
+  text-transform :uppercase
+  text-align: center;
+  background-color: cornsilk;
+}
+
+#Venecia
+  color: rgb(22, 15, 20);
+  font-size: 140px;
+  text-align: center;
+  background-color:whitesmoke;
+  text-shadow: 3px 3px pink;
+}
